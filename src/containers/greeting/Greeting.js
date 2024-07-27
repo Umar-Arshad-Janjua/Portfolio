@@ -40,15 +40,11 @@ export default function Greeting() {
               <SocialMedia />
               <div className="button-greeting-div">
                 <Button text="Contact me" href="#contact" />
-                {greeting.resumeLink && (
-                  <a
-                    href={require("./resume.pdf")}
-                    download="Resume.pdf"
-                    className="download-link-button"
-                  >
-                    <Button text="View Resume" />
-                  </a>
-                )}
+               
+  
+                    <Button href="https://drive.google.com/file/d/1fC6RmgN-mmeUO2gMRpyZt9McY4pJ4blW/view?usp=sharing"  className="download-link-button" text="View Resume" />
+                  
+                
               </div>
             </div>
           </div>
