@@ -217,7 +217,7 @@ const workExperiences = {
       company: "Brandpa",
       companylogo: require("./assets/images/brandpa.png"),
       companyUrl: "https://yourbrandpa.com/",
-      date: "Jan 2015 – Sep 2015",
+      date: "May 2021 – Sep 2021",
       descBullets: ["Translated designs and ideas into pixel perfect websites using HTML, CSS and  JavaScript",
       "Implemented responsiveness of pages and components across various devices using CSS media queries",
       "Refactored and cleaned up JavaScript code to reduce latency rate by 40% in  web applications"
