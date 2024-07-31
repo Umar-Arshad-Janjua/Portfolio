@@ -19,6 +19,7 @@ export default function WorkExperience() {
                   return (
                     <ExperienceCard
                       key={i}
+                      
                       isDark={isDark}
                       cardInfo={{
                         company: card.company,
@@ -28,6 +29,7 @@ export default function WorkExperience() {
                         companylogo: card.companylogo,
                         role: card.role,
                         descBullets: card.descBullets
+                        
                       }}
                     />
                   );
