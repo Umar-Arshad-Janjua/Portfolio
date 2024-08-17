@@ -1,7 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.dacb6c27.css",
-    "main.js": "/static/js/main.de0f5c78.js",
+    "main.js": "/static/js/main.0e180f15.js",
+    "static/media/crimson.png": "/static/media/crimson.f7c19a5bc5497cb6ce5d.png",
+    "static/media/mern.png": "/static/media/mern.c06987000f4dc5124db5.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/sysreforms.png": "/static/media/sysreforms.5726fc672010dfb4dee8.png",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
@@ -11,16 +13,15 @@
     "static/media/essential.png": "/static/media/essential.5df49d523bf6db32f700.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/comsats.png": "/static/media/comsats.106958e213e4283c5a51.png",
-    "static/media/mern.png": "/static/media/mern.a37555ca7384db541647.png",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/index.html",
     "main.dacb6c27.css.map": "/static/css/main.dacb6c27.css.map",
-    "main.de0f5c78.js.map": "/static/js/main.de0f5c78.js.map"
+    "main.0e180f15.js.map": "/static/js/main.0e180f15.js.map"
   },
   "entrypoints": [
     "static/css/main.dacb6c27.css",
-    "static/js/main.de0f5c78.js"
+    "static/js/main.0e180f15.js"
   ]
 }

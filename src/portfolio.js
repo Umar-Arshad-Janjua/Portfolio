@@ -262,7 +262,19 @@ const bigProjects = {
           url: "http://13.60.23.75/"
         }
       ]
-    }
+    },
+    {
+      image: require("./assets/images/crimson.png"),
+      projectName: "Restaurant Reservation Website",
+      projectDesc: "Developed a platform for a restaturant using MERN Stack which provides customers an option for reservations.",
+      footerLink: [
+        {
+          name: "Link",
+          url: "http://crimsonplate.vercel.app"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
