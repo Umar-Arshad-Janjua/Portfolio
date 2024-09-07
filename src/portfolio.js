@@ -275,6 +275,18 @@ const bigProjects = {
         //  you can add extra buttons here.
       ]
     },
+    {
+      image: require("./assets/images/UNI.png"),
+      projectName: "University Website",
+      projectDesc: "Developed University website using React.js to provide information about institute.",
+      footerLink: [
+        {
+          name: "Link",
+          url: "https://universitaets.netlify.app/"
+        }
+        //  you can add extra buttons here.
+      ]
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
